@@ -1,0 +1,46 @@
+java, no window
+Finder, cache
+TextEdit, user_interaction.txt
+Finder, cache
+application.log
+application.log
+TextEdit, accessed_apps.txt
+TextEdit, accessed_apps.txt
+TextEdit, accessed_apps.txt
+TextEdit, accessed_apps.txt
+Finder, cache
+Console, no window
+TextEdit, user_interaction.txt
+TextEdit, accessed_apps 19.13.30.txt
+Finder, cache
+Finder, cache
+TextEdit, user_interaction.txt
+Finder, cache
+Finder, cache
+Finder, cache
+[~/Desktop/workspace/time_tracker]
+java, no window
+java, no window
+Finder, macOS Scripts
+Finder, Desktop
+Finder, time_tracker
+Finder, cache
+Finder, cache
+Finder, cache
+Finder, cache
+TextEdit, user_interaction.txt
+TextEdit, user_interaction.txt
+TextEdit, user_interaction.txt
+TextEdit, no window
+TextEdit, user_interaction.txt
+TextEdit, user_interaction.txt
+TextEdit, no window
+TextEdit, no window
+TextEdit, user_interaction.txt
+TextEdit, user_interaction.txt
+TextEdit, user_interaction.txt
+TextEdit, user_interaction.txt
+TextEdit, no window
+TextEdit, user_interaction.txt
+TextEdit, user_interaction.txt
+TextEdit, no window

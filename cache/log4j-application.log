@@ -1,0 +1,109 @@
+2016-11-21 19:13:37 INFO  MainApplication:366 - MainApplication.generateUniqueComputerName()..
+2016-11-21 19:13:37 INFO  MainApplication:151 - execute.keyLogger..
+2016-11-21 19:13:37 INFO  MainApplication:160 - execute.mouseListener..
+2016-11-21 19:13:37 INFO  MainApplication:168 - execute.applicationsTracker..
+2016-11-21 19:13:37 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:13:37 INFO  MainApplication:177 - execute.userInteractionService..
+2016-11-21 19:13:37 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:13:40 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:13:40 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:13:43 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:13:44 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:13:46 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:13:47 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:13:49 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:13:50 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:13:52 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:13:53 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:13:55 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:13:56 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:13:58 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:00 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:02 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:03 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:05 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:06 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:08 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:09 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:11 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:12 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:14 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:15 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:17 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:18 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:20 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:22 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:23 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:25 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:26 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:28 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:29 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:31 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:32 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:34 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:35 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:37 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:14:38 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:14:40 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:37 INFO  MainApplication:366 - MainApplication.generateUniqueComputerName()..
+2016-11-21 19:18:37 INFO  MainApplication:151 - execute.keyLogger..
+2016-11-21 19:18:37 INFO  MainApplication:160 - execute.mouseListener..
+2016-11-21 19:18:37 INFO  MainApplication:168 - execute.applicationsTracker..
+2016-11-21 19:18:37 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:37 INFO  MainApplication:177 - execute.userInteractionService..
+2016-11-21 19:18:37 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:18:40 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:18:41 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:43 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:18:44 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:46 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:18:47 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:49 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:18:50 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:52 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:18:53 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:55 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:18:57 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:18:58 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:00 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:01 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:03 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:04 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:07 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:07 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:10 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:10 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:13 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:14 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:16 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:17 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:19 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:20 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:22 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:23 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:25 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:26 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:28 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:29 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:32 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:32 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:35 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:35 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:38 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:38 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:41 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:41 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:42 INFO  MainApplication:242 - Inactivity! -> no screenshots taken any more: timeWhenNoClickWasReceived= 61
+2016-11-21 19:19:44 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:44 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:45 INFO  MainApplication:242 - Inactivity! -> no screenshots taken any more: timeWhenNoClickWasReceived= 64
+2016-11-21 19:19:47 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:47 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:48 INFO  MainApplication:242 - Inactivity! -> no screenshots taken any more: timeWhenNoClickWasReceived= 67
+2016-11-21 19:19:50 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:50 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:51 INFO  MainApplication:242 - Inactivity! -> no screenshots taken any more: timeWhenNoClickWasReceived= 70
+2016-11-21 19:19:53 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
+2016-11-21 19:19:54 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/getActiveAppTitle.sh
+2016-11-21 19:19:55 INFO  MainApplication:242 - Inactivity! -> no screenshots taken any more: timeWhenNoClickWasReceived= 73
+2016-11-21 19:19:56 INFO  LinuxOSType:227 - Executing commands script:/Users/petrica/Desktop/workspace/time_tracker/Application/scripts/idletime.sh
